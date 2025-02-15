@@ -1,0 +1,36 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "iPhone 15",
+        "category": "electronics",
+        "price": 999.99,
+        "description": "Latest iPhone model with advanced features",
+        "stock": 50
+      },
+      {
+        "id": 2,
+        "name": "Samsung 4K TV",
+        "category": "electronics",
+        "price": 799.99,
+        "description": "55-inch 4K Smart TV",
+        "stock": 30
+      },
+      {
+        "id": 3,
+        "name": "Nike Running Shoes",
+        "category": "sports",
+        "price": 129.99,
+        "description": "Comfortable running shoes with great support",
+        "stock": 100
+      },
+      {
+        "id": 4,
+        "name": "Coffee Maker",
+        "category": "appliances",
+        "price": 79.99,
+        "description": "12-cup programmable coffee maker",
+        "stock": 25
+      }
+    ]
+  }
